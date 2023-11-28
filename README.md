@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### **Personal Statistics**
 
-<p><img align="center" src="https://github-readme-stats-ptti0pe1d-konstantin-niks-projects.vercel.app/api/top-langs?username=Konstantin-nik&show_icons=true&locale=en&layout=compact" alt="Konstantin-nik" /></p>
-<p><img align="center" src="hgithub-readme-stats-three-sable-44.vercel.app/api?username=Konstantin-nik&show_icons=true&locale=en" alt="Konstantin-nik" /></p>
+<p><img align="center" src="https://github-readme-stats-three-sable-44.vercel.app/api/top-langs?username=Konstantin-nik&show_icons=true&locale=en&layout=compact" alt="Konstantin-nik" /></p>
+<p><img align="center" src="https://github-readme-stats-three-sable-44.vercel.app
+/api?username=Konstantin-nik&show_icons=true&locale=en" alt="Konstantin-nik" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Konstantin-nik&" alt="Konstantin-nik" /></p>
