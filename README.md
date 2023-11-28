@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Konstantin-nik/Konstantin-nik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +17,6 @@ Here are some ideas to get you started:
 
 ### **Personal Statistics**
 
-<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=aniervs&show_icons=true&locale=en&layout=compact" alt="aniervs" /></p>
-<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=aniervs&show_icons=true&locale=en" alt="aniervs" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniervs&" alt="aniervs" /></p>
+<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=Konstantin-nik&show_icons=true&locale=en&layout=compact" alt="Konstantin-nik" /></p>
+<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=Konstantin-nik&show_icons=true&locale=en" alt="Konstantin-nik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Konstantin-nik&" alt="Konstantin-nik" /></p>
